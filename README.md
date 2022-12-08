@@ -16,3 +16,7 @@ ARCoreのsampleをベースに以下のスクリプトを編集した。
 
 ## デモ動画
 Galaxy S20でテスト
+
+
+https://user-images.githubusercontent.com/92072920/206423156-810401bb-c3f0-4ab8-bc59-98a2ae3a2f40.mp4
+
