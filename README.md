@@ -11,7 +11,7 @@ VPS（Visual Positioning System）によって指定した座標（経度、緯�
 * [StartScene](./UnityProject/Assets/Scenes/StartScene.unity) 
   * [UnityProject/Assets/Scenes/ChangeScene.cs](./UnityProject/Assets/Scenes/ChangeScene.cs)
 * [MyGeospatial](./UnityProject/Assets/Samples/ARCore%20Extensions/1.31.0/Geospatial%20Sample/Scenes/MyGeospatial.unity)
-ARCoreのsampleをベースに
+ARCoreのsampleをベースに以下のスクリプトを編集した。
     * [UnityProject/Assets/Samples/ARCore Extensions/1.31.0/Geospatial Sample/Scripts/GeospatialController.cs](./UnityProject/Assets/Samples/ARCore%20Extensions/1.31.0/Geospatial%20Sample/Scripts/GeospatialController.cs)
 
 ## デモ動画
